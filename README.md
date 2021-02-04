@@ -1,5 +1,6 @@
 # BookStore
 ###### 경남대학교 졸업작품으로 학교 구내서점을 모바일로 쇼핑을 할수있게 설계한 어플리케이션 입니다.
+파이어베이스를 사용하여 유저인증, 백엔드한 부분을 파이어베이스의 를 대신 사용하여 활용하였습니다.
 ## 로그인 화면 & 홈화면
 |<image src= "https://user-images.githubusercontent.com/62688109/106585712-f8438980-658a-11eb-9eef-8f435574bad8.png" width="200">
    <image src= "https://user-images.githubusercontent.com/62688109/103797845-54021c00-508c-11eb-8cc4-0680e2103239.jpg" width="200">
